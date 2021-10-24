@@ -1,4 +1,5 @@
 
+
 def binary_search(target, start, end):
     global array
 
